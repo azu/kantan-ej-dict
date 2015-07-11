@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "test ",
+  "main": "test.js",
+  "scripts": {
+    "test": "npm install && node test.js"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "kantan-ej-dict": "file:.."
+  }
+}
