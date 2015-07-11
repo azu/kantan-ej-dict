@@ -1,4 +1,5 @@
-# kantan-ej-dict
+# kantan-ej-dict [![Build Status](https://travis-ci.org/azu/kantan-ej-dict.svg?branch=master)](https://travis-ci.org/azu/kantan-ej-dict)
+
 
 Download [gunyarakun/kantan-ej-dictionary](https://github.com/gunyarakun/kantan-ej-dictionary "gunyarakun/kantan-ej-dictionary") and use as a node module.
 
