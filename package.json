@@ -1,0 +1,40 @@
+{
+  "name": "kantan-ej-dict",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/kantan-ej-dict.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/kantan-ej-dict",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/kantan-ej-dict/issues"
+  },
+  "version": "1.0.0",
+  "description": "download katan en-ja dictionary.",
+  "main": "lib/index.js",
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "bin": {
+    "download-kantan-ej-dict": "./bin/download-dict.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "install": "./bin/download-dict.js"
+  },
+  "keywords": [
+    "dict",
+    "english",
+    "japanese",
+    "dictionary"
+  ],
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^1.3.0"
+  }
+}
