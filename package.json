@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/azu/kantan-ej-dict/issues"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "download katan en-ja dictionary.",
   "main": "lib/index.js",
   "files": [
